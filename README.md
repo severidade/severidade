@@ -3,13 +3,13 @@ Olá
 
 ## Também estou 
 <div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/severidade/" target="_blank">
+<a href="https://www.linkedin.com/in/severidade/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/https://www.behance.net/severidade" target="_blank">
+<a href="https://www.behance.net/severidade" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/https://codepen.io/severidade" target="_blank">
+<a href="https://codepen.io/severidade" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
 </div>  
