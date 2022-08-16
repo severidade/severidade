@@ -1,9 +1,7 @@
 ### Hi there 👋
 Olá
-<!--
-**severidade/severidade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Connect with me  
+## Também estou 
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/severidade/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -15,6 +13,10 @@ Olá
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
 </div>  
+<!--
+**severidade/severidade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
   
 
 <br/>  
