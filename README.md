@@ -1,6 +1,10 @@
 ### Hi there 👋
 Olá
 
+<div class="github-card" data-github="severidade"></div>
+<script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/dist/widget.js"></script>
+
+
 ## Também estou 
 <div align="center">
 <a href="https://www.linkedin.com/in/severidade/" target="_blank">
