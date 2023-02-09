@@ -1,5 +1,13 @@
 ### Hi there 👋
-Olá
+
+
+## Github Stats  
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=severidade&show_icons=true&locale=en" alt="juliadomenciano" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=severidade&show_icons=true&locale=en&layout=compact" alt="juliadomenciano" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=severidade&" alt="severidade" /></p> 
 
 <!-- <div class="github-card" data-github="severidade"></div>
 <script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/dist/widget.js"></script> -->
