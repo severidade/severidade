@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Severo!;Seja+muito+bem-vindo(a)+por+aqui.)](https://git.io/typing-svg)
 
 ## Github Stats  
 
