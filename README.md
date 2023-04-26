@@ -2,21 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Severo!;Seja+muito+bem-vindo(a)+por+aqui.)](https://git.io/typing-svg)
 
 ## Github Stats  
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=severidade&show_icons=true&locale=en" alt="juliadomenciano" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=severidade&show_icons=true&locale=en&layout=compact" alt="juliadomenciano" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=severidade&" alt="severidade" /></p> 
-
-<!-- <div class="github-card" data-github="severidade"></div>
-<script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/dist/widget.js"></script> -->
-
 <div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=severidade&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=severidade&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
+    <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=severidade&show_icons=true&locale=en&layout=compact" alt="severidade" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=severidade&show_icons=true&locale=en" alt="severidade" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=severidade&" alt="severidade" />
+<div>
 
 
 ## Também estou 
