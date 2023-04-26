@@ -12,6 +12,12 @@
 <!-- <div class="github-card" data-github="severidade"></div>
 <script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/dist/widget.js"></script> -->
 
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+
 
 ## Também estou 
 <div align="center">
@@ -24,7 +30,9 @@
 <a href="https://codepen.io/severidade" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
-</div> 
+</div>
+
+
 
 <!--
 **severidade/severidade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
