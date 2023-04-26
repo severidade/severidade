@@ -1,12 +1,22 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Severo!;Seja+muito+bem-vindo(a)+por+aqui.)](https://git.io/typing-svg)
 
-## Github Stats  
+<!-- ## Github Stats  
 <div>
     <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=severidade&show_icons=true&locale=en&layout=compact" alt="severidade" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=severidade&show_icons=true&locale=en" alt="severidade" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=severidade&" alt="severidade" />
-<div>
+<div> -->
+    
+    
+<div align="center">
+    <h1> ⚙️ &nbsp;GitHub Análise </h1>
+    <br>
+    <a href="https://github.com/severidade">
+    <img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api?username=severidade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=severidade&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=severidade&layout=compact&langs_count=7&theme=dracula" alt="severidade" />
+</div>
 
 
 ## Também estou 
