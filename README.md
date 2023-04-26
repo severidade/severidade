@@ -15,7 +15,7 @@
     <a href="https://github.com/severidade">
     <img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api?username=severidade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=severidade&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=severidade&layout=compact&langs_count=7&theme=dracula" alt="severidade" />
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=severidade&layout=compact&langs_count=7&theme=dracula" alt="severidade" />
 </div>
 
 
