@@ -3,6 +3,9 @@
 
 Com uma trajetória profissional de quase duas décadas, iniciei minha carreira como Designer Gráfico focado em produtos impressos. A transição para a tecnologia ocorreu de maneira orgânica ao me envolver no desenvolvimento de interfaces atuando como UI/UX Designer. A paixão pela programação surgiu naturalmente à medida que me interessei por codificar as interfaces que desenvolvia. Como Front-End Developer, estou empenhado, sempre em busca de novos aprendizados e experiências. Habilidade em traduzir conceitos de design em interfaces web responsivas e visualmente atrativas, trazendo uma abordagem criativa para aprimorar a experiência do usuário e oferecer soluções inovadoras de design para projetos de desenvolvimento web. Procuro participar de projetos criativos e inovadores com equipes cooperativas.
 
+_With a professional journey spanning nearly two decades, I began my career as a Graphic Designer focused on print products. The transition to technology occurred organically as I engaged in interface development, acting as a UI/UX Designer. A passion for programming naturally emerged as I became interested in coding the interfaces I designed. As a Front-End Developer, I am dedicated, always seeking new learning opportunities and experiences. Proficient in translating design concepts into responsive and visually appealing web interfaces, I bring a creative approach to enhance the user experience and offer innovative design solutions for web development projects. I seek to participate in creative and innovative projects with collaborative teams._
+
+
 <!-- ## Github Stats  
 <div>
     <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=severidade&show_icons=true&locale=en&layout=compact" alt="severidade" />
