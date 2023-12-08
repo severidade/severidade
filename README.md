@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Severo!;Seja+muito+bem-vindo(a)+por+aqui.)](https://git.io/typing-svg)
 
+Com uma trajetória profissional de quase duas décadas, iniciei minha carreira como Designer Gráfico focado em produtos impressos. A transição para a tecnologia ocorreu de maneira orgânica ao me envolver no desenvolvimento de interfaces atuando como UI/UX Designer. A paixão pela programação surgiu naturalmente à medida que me interessei por codificar as interfaces que desenvolvia. Como Front-End Developer, estou empenhado, sempre em busca de novos aprendizados e experiências. Habilidade em traduzir conceitos de design em interfaces web responsivas e visualmente atrativas, trazendo uma abordagem criativa para aprimorar a experiência do usuário e oferecer soluções inovadoras de design para projetos de desenvolvimento web. Procuro participar de projetos criativos e inovadores com equipes cooperativas.
+
 <!-- ## Github Stats  
 <div>
     <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=severidade&show_icons=true&locale=en&layout=compact" alt="severidade" />
