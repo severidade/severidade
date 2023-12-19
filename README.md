@@ -23,6 +23,8 @@ _With a professional journey spanning nearly two decades, I began my career as a
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=severidade&layout=compact&langs_count=7&theme=react" alt="severidade" />
 </div>
 
+e-mail: [oliveira.severo@mail.com](mailto:oliveira.severo@mail.com)
+
 
 ## Também estou 
 <div align="center">
