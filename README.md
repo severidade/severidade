@@ -5,6 +5,7 @@ Com uma trajetória profissional de quase duas décadas, iniciei minha carreira 
 
 _With a professional journey spanning nearly two decades, I began my career as a Graphic Designer focused on print products. The transition to technology occurred organically as I engaged in interface development, acting as a UI/UX Designer. A passion for programming naturally emerged as I became interested in coding the interfaces I designed. As a Front-End Developer, I am dedicated, always seeking new learning opportunities and experiences. Proficient in translating design concepts into responsive and visually appealing web interfaces, I bring a creative approach to enhance the user experience and offer innovative design solutions for web development projects. I seek to participate in creative and innovative projects with collaborative teams._
 
+e-mail: [oliveira.severo@mail.com](mailto:oliveira.severo@mail.com)
 
 <!-- ## Github Stats  
 <div>
@@ -23,7 +24,7 @@ _With a professional journey spanning nearly two decades, I began my career as a
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=severidade&layout=compact&langs_count=7&theme=react" alt="severidade" />
 </div>
 
-e-mail: [oliveira.severo@mail.com](mailto:oliveira.severo@mail.com)
+
 
 
 ## Também estou 
