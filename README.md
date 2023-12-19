@@ -13,8 +13,7 @@ e-mail: [oliveira.severo@mail.com](mailto:oliveira.severo@mail.com)
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=severidade&show_icons=true&locale=en" alt="severidade" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=severidade&" alt="severidade" />
 <div> -->
-    
-    
+
 <div align="center">
     <h1> ⚙️ &nbsp;GitHub Análise </h1>
     <br>
@@ -23,7 +22,6 @@ e-mail: [oliveira.severo@mail.com](mailto:oliveira.severo@mail.com)
     <img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=severidade&layout=compact&langs_count=7&theme=react"/>
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=severidade&layout=compact&langs_count=7&theme=react" alt="severidade" />
 </div>
-
 
 
 
