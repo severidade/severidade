@@ -14,6 +14,9 @@ e-mail: [oliveira.severo@mail.com](mailto:oliveira.severo@mail.com)
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=severidade&" alt="severidade" />
 <div> -->
 
+
+
+
 <div align="center">
     <h1> ⚙️ &nbsp;GitHub Análise </h1>
     <br>
